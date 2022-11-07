@@ -1,0 +1,83 @@
+{
+"roles": [
+	{
+		"id" : 1,
+		"role_title" : "Junior Python developer"
+	},
+	{
+		"id" : 2,
+		"role_title" : "Middle Python developer"
+	},
+	{
+		"id" : 3,
+		"role_title" : "Senior Python developer"
+	},
+	{
+		"id" : 4,
+		"role_title" : "Junior Java developer"
+	},
+	{
+		"id" : 5,
+		"role_title" : "Middle Java developer"
+	},
+	{
+		"id" : 6,
+		"role_title" : "Senior Java developer"
+	},
+	{
+		"id" : 7,
+		"role_title" : "Junior JavaScript developer"
+	},
+	{
+		"id" : 12,
+		"role_title" : "Middle JavaScript developer"
+	},
+	{
+		"id" : 13,
+		"role_title" : "Senior JavaScript developer"
+	},
+	{
+		"id" : 14,
+		"role_title" : "Junior Manual QA engineerr"
+	},
+	{
+		"id" : 15,
+		"role_title" : "Middle Manual QA engineer"
+	},
+	{
+		"id" : 16,
+		"role_title" : "Senior Manual QA engineer"
+	},
+	{
+		"id" : 17,
+		"role_title" : "Project Manage"
+	},
+	{
+		"id" : 18,
+		"role_title" : "Designerr"
+	},
+	{
+		"id" : 19,
+		"role_title" : "HR"
+	},
+	{
+		"id" : 20,
+		"role_title" : "CEO"
+	},
+	{
+		"id" : 21,
+		"role_title" : "Sales manager"
+	},
+	{
+		"id" : 22,
+		"role_title" : "Junior Automation QA engineerr"
+	},
+	{
+		"id" : 23,
+		"role_title" : "Middle Automation QA engineer"
+	},
+	{
+		"id" : 24,
+		"role_title" : "Senior Automation QA engineer"
+	}
+]}
